@@ -11967,4 +11967,12 @@ fieldset:disabled .btn {
     display: none !important;
   }
 }
+
+.d-flex div h6, .d-flex div .h6 {
+  font-size: 12px;
+}
+
+.d-flex div p {
+  font-size: 12px;
+}
 /*# sourceMappingURL=custom.css.map */
